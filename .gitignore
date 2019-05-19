@@ -1,0 +1,26 @@
+__pycache__
+*.pyc
+*.pyo
+*~
+
+venv/
+.venv/
+
+.vscode/
+
+.DS_Store
+._.DS_Store
+
+# ipython
+.ipynb_checkpoints
+
+# data
+tasharep.csv
+tsharep.csv
+
+# model
+*.h5
+
+vscode-ipynb-py-convert/
+
+get_feature.ipynb
